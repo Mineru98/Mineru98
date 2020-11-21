@@ -1,6 +1,6 @@
 ### Hello, I'am Mineru 👋
 
-<img src="images/me.jpg" align="right" />
+<img height="240" src="https://i.ibb.co/kKk0qHv/24331715-555796671427385-9166264283376386048-n.jpg" align="right" />
 
 I designed the services I needed myself. And I've been working repeatedly to verify that what I've made is what others want.
 
