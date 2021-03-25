@@ -25,12 +25,17 @@ I designed the services I needed myself. And I've been working repeatedly to ver
 <code><img height="30" src="https://simpleicons.org/icons/mongodb.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/redis.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/elasticsearch.svg"></code>
-<code><img height="30" src="https://simpleicons.org/icons/graphql.svg"></code>
-<code><img height="30" src="https://simpleicons.org/icons/socket-dot-io.svg"></code>
 
 **Tool**
 
 <code><img height="30" src="https://simpleicons.org/icons/docker.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/kubernetes.svg"></code>
+
+**Etc**
+
+<code><img height="30" src="https://simpleicons.org/icons/graphql.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/apollographql.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/socket-dot-io.svg"></code>
 
 [![Mineru98's github stats](https://github-readme-stats.vercel.app/api?username=Mineru98&count_private=true&show_icons=true&hide=contribs,issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
