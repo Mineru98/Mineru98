@@ -26,10 +26,17 @@ I designed the services I needed myself. And I've been working repeatedly to ver
 <code><img height="30" src="https://simpleicons.org/icons/redis.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/elasticsearch.svg"></code>
 
+**Data Analysis**
+
+<code><img height="30" src="https://simpleicons.org/icons/python.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/jupyter.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/tensorflow.svg"></code>
+
 **Tool**
 
 <code><img height="30" src="https://simpleicons.org/icons/docker.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/kubernetes.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/git.svg"></code>
 
 **Etc**
 
