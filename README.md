@@ -8,9 +8,9 @@ I designed the services I needed myself. And I've been working repeatedly to ver
 
 <code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/typescript.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/go.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/socket-dot-io.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/graphql.svg"></code>
-<code><img height="30" src="https://simpleicons.org/icons/elasticsearch.svg"></code>
 
 **Front-end Skil's**
 
@@ -25,6 +25,7 @@ I designed the services I needed myself. And I've been working repeatedly to ver
 <code><img height="30" src="https://simpleicons.org/icons/mysql.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/mongodb.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/redis.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/elasticsearch.svg"></code>
 
 **Tool**
 
