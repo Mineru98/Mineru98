@@ -6,7 +6,7 @@ I designed the services I needed myself. And I've been working repeatedly to ver
 
 **Back-end Skil's**
 
-<code><img height="30" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/nodedotjs.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/typescript.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/go.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/nestjs.svg"></code>
@@ -14,7 +14,7 @@ I designed the services I needed myself. And I've been working repeatedly to ver
 **Front-end Skil's**
 
 <code><img height="30" src="https://simpleicons.org/icons/react.svg"></code>
-<code><img height="30" src="https://simpleicons.org/icons/next-dot-js.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/nextdotjs.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/html5.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/css3.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/expo.svg"></code>
@@ -42,7 +42,7 @@ I designed the services I needed myself. And I've been working repeatedly to ver
 
 <code><img height="30" src="https://simpleicons.org/icons/graphql.svg"></code>
 <code><img height="30" src="https://simpleicons.org/icons/apollographql.svg"></code>
-<code><img height="30" src="https://simpleicons.org/icons/socket-dot-io.svg"></code>
+<code><img height="30" src="https://simpleicons.org/icons/socketdotio.svg"></code>
 
 [![Mineru98's github stats](https://github-readme-stats.vercel.app/api?username=Mineru98&count_private=true&show_icons=true&hide=contribs,issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
