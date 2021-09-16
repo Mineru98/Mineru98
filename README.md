@@ -34,8 +34,8 @@
 
 [![Swagger]](https://swagger.io/)
 [![Storybook]](https://storybook.js.org/)
-
 [![Node.js]](https://nodejs.org/en/)
+[![SocketIO]](https://socket.io/)
 
 </details>
 
@@ -103,6 +103,7 @@
 [mongodb]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=47a248&logoColor=47a248&label=&message=MongoDB&logo=mongodb&#47A248
 [nestjs]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e0234e&logoColor=e0234e&label=&message=NestJS&logo=nestjs&#E0234E
 [node.js]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=339933&logoColor=339933&label=&message=Node.js&logo=nodedotjs&#339933
+[socket.io]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=339933&logoColor=000000&label=&message=SocketIO&logo=socketio&#000000
 [pandas]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=150458&logoColor=150458&label=&message=Pandas&logo=pandas&#150458
 [postgresql]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=4169e1&logoColor=4169e1&label=&message=PostgreSQL&logo=postgresql&#4169E1
 [python]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=3776ab&logoColor=3776ab&label=&message=Python&logo=python&#3776AB
