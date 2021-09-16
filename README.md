@@ -2,49 +2,43 @@
 
 [![GitHub Stats] ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
 
-<details open>
-  <summary>🏆 Trophy</summary>
-
-[![GitHub Trophy]](https://github.com/ryo-ma/github-profile-trophy "GitHub Profile Trophy")
-
-</details>
-
 ## Languages
 
 [![TypeScript]](https://www.typescriptlang.org/)
 [![Python]](https://www.python.org/)
 [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
-[![Go]](https://golang.org/)
-[![C++]](https://isocpp.org/)
-[![Java]](https://openjdk.java.net/)
+<details>
+  <summary>More</summary>
+  
+  [![Go]](https://golang.org/)
+  [![C++]](https://isocpp.org/)
+  [![Java]](https://openjdk.java.net/)
+  
+</details>
 
 ## Libraries & Frameworks
 
 [![React]](https://reactjs.org/)
 [![NestJS]](https://nestjs.com/)
 [![Express]](https://expressjs.com/)
-
-[![Expo]](https://expo.io/)
 [![React Native]](https://reactnative.dev/)
+[![Expo]](https://expo.io/)
 
-
-<details>
-  <summary>More</summary>
 
 [![Swagger]](https://swagger.io/)
 [![Storybook]](https://storybook.js.org/)
 [![Node.js]](https://nodejs.org/en/)
 [![Socket.IO]](https://socket.io/)
 
-</details>
-
-## Data & ML
+## Database
 
 [![MariaDB]](https://mariadb.org/)
 [![PostgreSQL]](https://www.postgresql.org/)
 [![MongoDB]](https://www.mongodb.com/)
 [![Redis]](https://redis.io/)
+
+## Machine Learning
 
 [![TensorFlow]](https://www.tensorflow.org/)
 [![Keras]](https://keras.io/)
@@ -67,12 +61,13 @@
 [![Google Analytics]](https://marketingplatform.google.com/about/analytics/)
 [![Ubuntu]](https://ubuntu.com/)
 
+
+</details>
+
 ---
 
 [![Shields.io]](https://shields.io/)
 [![Simple Icons]](https://simpleicons.org/)
-
-</details>
 
 <!-- Badge Links -->
 <!-- https://img.shields.io/static/v1?style=flat-square&label=&message=&labelColor=&color=&logoColor=&logo= -->
