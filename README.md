@@ -37,6 +37,7 @@
 [![PostgreSQL]](https://www.postgresql.org/)
 [![MongoDB]](https://www.mongodb.com/)
 [![Redis]](https://redis.io/)
+[![Neo4J]](https://neo4j.com/)
 
 ## Machine Learning
 
@@ -105,6 +106,7 @@
 [react native]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=61dafb&logoColor=61dafb&label=&message=React%20Native&logo=react&#61DAFB
 [react]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
 [redis]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=dc382d&logoColor=dc382d&label=&message=Redis&logo=redis&#DC382D
+[neo4j]: https://img.shields.io/static/v1?style=flat-square&labelColor=ffffff&color=058aff&logoColor=058aff&label=&message=Neo4J&logo=neo4j
 [rust]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Rust&logo=rust&#000000
 [scikit-learn]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f7931e&logoColor=f7931e&label=&message=scikit-learn&logo=scikit-learn&#F7931E
 [storybook]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ff4785&logoColor=ff4785&label=&message=Storybook&logo=storybook&#FF4785
