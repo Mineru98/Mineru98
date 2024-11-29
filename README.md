@@ -36,17 +36,16 @@
   [![Storybook]](https://storybook.js.org/)
   [![PlayWright]](https://playwright.dev/)
   
+  [![React Native]](https://reactnative.dev/)
+  [![Expo]](https://expo.io/)
+  
+  [![NestJS]](https://nextjs.org/)
+  [![Express]](https://expressjs.com/)
+  [![Swagger]](https://swagger.io/)
+  [![Socket.IO]](https://socket.io/)
+  
+  [![spring boot]](https://spring.io/projects/spring-boot)
 </details>
-
-[![React Native]](https://reactnative.dev/)
-[![Expo]](https://expo.io/)
-
-[![NestJS]](https://nextjs.org/)
-[![Express]](https://expressjs.com/)
-[![Swagger]](https://swagger.io/)
-[![Socket.IO]](https://socket.io/)
-
-[![spring boot]](https://spring.io/projects/spring-boot)
 
 ## Database
 
