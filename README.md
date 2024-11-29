@@ -6,13 +6,14 @@
 
 [![TypeScript]](https://www.typescriptlang.org/)
 [![Python]](https://www.python.org/)
+[![Go]](https://go.dev/)
 [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-[![Java]](https://openjdk.java.net/)
 
 <details>
   <summary>More</summary>
   
-  [![Go]](https://golang.org/)
+  [![Java]](https://openjdk.java.net/)
+  [![Php]](https://www.php.net/)
   [![C++]](https://isocpp.org/)
   
 </details>
@@ -21,15 +22,19 @@
 
 [![React]](https://reactjs.org/)
 [![NextJS]](https://reactjs.org/)
+[![Gin]](https://gin-gonic.com/)
 
 <details>
   <summary>More</summary>
   
   [![Webpack]](https://webpack.js.org/)
   [![React Query]](https://react-query.tanstack.com/)
+  [![Zustand]](https://zustand-demo.pmnd.rs/)
+  [![Recoil]](https://recoiljs.org/)
   [![MobX]](https://mobx.js.org/)
   [![Lodash]](https://lodash.com/)
   [![Storybook]](https://storybook.js.org/)
+  [![PlayWright]](https://playwright.dev/)
   
 </details>
 
@@ -47,18 +52,16 @@
 
 [![MySQL]](https://mysql.com/)
 [![Redis]](https://redis.io/)
-[![MongoDB]](https://www.mongodb.com/)
 [![ElasticSearch]](https://www.elastic.co/kr/elasticsearch/)
-[![Fluentd]](https://www.fluentd.org/)
-[![Neo4J]](https://neo4j.com/)
-[![hadoop]](https://hadoop.apache.org/)
+[![Spark]](https://spark.apache.org/)
+[![MongoDB]](https://www.mongodb.com/)
 
 ## Data Science
 
+[![Torch]](https://pytorch.org/)
 [![Pandas]](https://pandas.pydata.org/)
 [![scikit-learn]](https://scikit-learn.org/stable/)
-[![TensorFlow]](https://www.tensorflow.org/)
-[![Keras]](https://keras.io/)
+
 
 ## DevOps & Tools
 
@@ -103,17 +106,22 @@
 [python]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3776ab&logoColor=3776ab&label=&message=Python&logo=python&#3776AB
 [javascript]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=f7df1e&logoColor=f7df1e&label=&message=JavaScript&logo=javascript&#F7DF1E
 [java]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=007396&logoColor=007396&label=&message=Java&logo=openjdk
-
 [go]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00add8&logoColor=00add8&label=&message=Go&logo=go&#00ADD8
 [c++]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00599c&logoColor=00599c&label=&message=C%2B%2B&logo=c%2B%2B&#00599C
+[php]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=777BB4&logoColor=777BB4&label=&message=Php&logo=php&#777BB4
 
 [react]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
 [nextjs]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Next.JS&logo=next.js
 [webpack]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=8DD6F9&logoColor=8DD6F9&label=&message=Webpack&logo=webpack&#000000
 [react query]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=FF4154&logoColor=FF4154&label=&message=ReactQuery&logo=reactquery&#000000
 [mobx]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=FF9955&logoColor=FF9955&label=&message=MobX&logo=mobx&#000000
+[recoil]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3578E5&logoColor=3578E5&label=&message=recoil&logo=recoil&#3578E5
+[zustand]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000&logoColor=000&label=&message=zustand&logo=redux&#000
 [lodash]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3492FF&logoColor=3492FF&label=&message=Lodash&logo=lodash&#000000
 [storybook]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=ff4785&logoColor=ff4785&label=&message=Storybook&logo=storybook&#FF4785
+[gin]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00add8&logoColor=00add8&label=&message=Go&logo=gin&#00ADD8
+[spark]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=E25A1C&logoColor=E25A1C&label=&message=Spark&logo=apachespark&#00ADD8
+[playwright]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=44BA4A&logoColor=44BA4A&label=&message=playwright&logo=jest&#44BA4A
 
 [react native]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=React%20Native&logo=react&#61DAFB
 [expo]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000020&logoColor=000020&label=&message=Expo&logo=expo&#000020
@@ -137,6 +145,7 @@
 [keras]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=d00000&logoColor=d00000&label=&message=Keras&logo=keras&#D00000
 [pandas]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=150458&logoColor=150458&label=&message=Pandas&logo=pandas&#150458
 [scikit-learn]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=f7931e&logoColor=f7931e&label=&message=scikit-learn&logo=scikit-learn&#F7931E
+[torch]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=EE4C2C&logoColor=EE4C2C&label=&message=PyTorch&logo=PyTorch&#EE4C2C
 
 [git]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=f05032&logoColor=f05032&label=&message=Git&logo=git&#F05032
 [github]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=181717&logoColor=181717&label=&message=GitHub&logo=github&#181717
