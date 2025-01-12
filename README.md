@@ -4,9 +4,9 @@
 
 ## Languages
 
-[![TypeScript]](https://www.typescriptlang.org/)
 [![Python]](https://www.python.org/)
 [![Go]](https://go.dev/)
+[![TypeScript]](https://www.typescriptlang.org/)
 [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 <details>
@@ -20,8 +20,10 @@
 
 ## Libraries & Frameworks
 
+[![FastAPI]](https://fastapi.tiangolo.com/)
 [![React]](https://reactjs.org/)
 [![NextJS]](https://reactjs.org/)
+[![ollama]](https://ollama.com/)
 [![Gin]](https://gin-gonic.com/)
 
 <details>
@@ -108,8 +110,9 @@
 [go]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00add8&logoColor=00add8&label=&message=Go&logo=go&#00ADD8
 [c++]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00599c&logoColor=00599c&label=&message=C%2B%2B&logo=c%2B%2B&#00599C
 [php]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=777BB4&logoColor=777BB4&label=&message=Php&logo=php&#777BB4
+[FastAPI]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=009485&logoColor=009485&label=&message=FastAPI&logo=fastapi&#009485
 
-[react]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
+[react]: https://img.shields.io/static/v1?style=flat-square&labelColor=000000&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
 [nextjs]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Next.JS&logo=next.js
 [webpack]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=8DD6F9&logoColor=8DD6F9&label=&message=Webpack&logo=webpack&#000000
 [react query]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=FF4154&logoColor=FF4154&label=&message=ReactQuery&logo=reactquery&#000000
@@ -121,6 +124,7 @@
 [gin]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00add8&logoColor=00add8&label=&message=Go&logo=gin&#00ADD8
 [spark]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=E25A1C&logoColor=E25A1C&label=&message=Spark&logo=apachespark&#00ADD8
 [playwright]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=44BA4A&logoColor=44BA4A&label=&message=playwright&logo=jest&#44BA4A
+[ollama]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Ollama&logo=ollama
 
 [react native]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=React%20Native&logo=react&#61DAFB
 [expo]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000020&logoColor=000020&label=&message=Expo&logo=expo&#000020
